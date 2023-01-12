@@ -1,4 +1,4 @@
 # yaknostoyok.github.io
 
-Formulari de presentació de l'alumnat: https://forms.gle/S62PVQTLx1aWfivS9
+Formulari de presentació de l'alumnat [ací](https://forms.gle/S62PVQTLx1aWfivS9)
 
