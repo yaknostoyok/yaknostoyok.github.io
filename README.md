@@ -1,5 +1,5 @@
-# yaknostoyok
+# TBD
 
-Formulari de presentació de l'alumnat [ací](https://forms.gle/S62PVQTLx1aWfivS9)
-[publicació](publicacio-vj.md)
+lorem ipsum i eixes coses
+
 
